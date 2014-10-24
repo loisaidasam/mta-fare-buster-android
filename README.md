@@ -6,13 +6,20 @@ No more leaving change on your NYC MTA Metrocard! Android version
 https://github.com/loisaidasam/mta-fare-buster-android
 
 
+Based on work by
+
+- http://iquantny.tumblr.com/post/96700509489/how-memorizing-19-05-can-help-you-outsmart-the-mta
+
 Resources:
+
+MTA Fare Data:
+
+- http://web.mta.info/nyct/fare/FaresatAGlance.htm
 
 Image taken from:
 
 - http://web.mta.info/metrocard/
 - http://web.mta.info/metrocard/images/mc.jpg
-
 
 Similar/Competitor Apps:
 
