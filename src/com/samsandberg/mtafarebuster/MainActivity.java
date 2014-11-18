@@ -48,6 +48,9 @@ public class MainActivity extends ActionBarActivity {
 				
 				@Override
 				public void onClick(View v) {
+					if (amountOnCard.getText().toString().equals("")) {
+						amountOnCard.setText(getActivity().getString(R.string.amount_on_card_default_value));
+					}
 					float amountOnCardValue = Float.valueOf(amountOnCard.getText().toString());
 					ArrayList<MtaUtilResult> results = MtaUtil.amountToAdd(amountOnCardValue);
 					ArrayList<String> strings = new ArrayList<String>();
