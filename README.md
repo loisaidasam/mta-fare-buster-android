@@ -1,5 +1,7 @@
-mta-fare-buster-android
+MTA Fare Buster for Android
 =======================
+
+[![ghit.me](https://ghit.me/badge.svg?repo=loisaidasam/mta-fare-buster-android)](https://ghit.me/repo/loisaidasam/mta-fare-buster-android)
 
 No more leaving change on your NYC MTA Metrocard! Android version
 
