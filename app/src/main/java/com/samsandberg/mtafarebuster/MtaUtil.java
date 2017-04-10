@@ -6,11 +6,13 @@ import java.util.ArrayList;
 public class MtaUtil {
 
     // $2.75 to ride the sub
+    // Effective March 19, 2017
     public static final int COST_PER_TRIP = 275;
 
     // $5.50 min for 5% bonus
+    // Effective March 19, 2017
     public static final int MIN_AMOUNT_TO_GET_BONUS = 550;
-    public static final float BONUS_PCT = 0.11f;
+    public static final float BONUS_PCT = 0.05f;
 
     // 5 cent steps
     public static final int TO_ADD_STEP = 5;
